@@ -1,4 +1,4 @@
-<h3>A Full Stack Developer from Canada</h3>
+<h3>Full Stack Developer from Canada 🇨🇦 </h3>
 
 - 🔭 I’m currently working on [Classcraft](https://github.com/classcraft)
 
