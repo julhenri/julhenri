@@ -21,7 +21,6 @@ I enjoy learning new languages and tools! I am currently working with Javascript
   
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Classcraft](https://github.com/classcraft)  
   
@@ -33,16 +32,6 @@ I enjoy learning new languages and tools! I am currently working with Javascript
   
 
 - ⚡ Fun fact: I love to think I am funny  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 
 ## Languages and Tools  
