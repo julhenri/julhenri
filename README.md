@@ -29,9 +29,6 @@ I enjoy learning new languages and tools! I am currently working with Javascript
   
 
 - ❓ Ask me about anything related to video games  
-  
-
-- ⚡ Fun fact: I love to think I am funny  
 
 
 ## Languages and Tools  
@@ -51,5 +48,4 @@ I enjoy learning new languages and tools! I am currently working with Javascript
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
 </div>  
